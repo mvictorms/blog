@@ -26,6 +26,13 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'jquery-turbolinks'
 gem 'paperclip'
+gem 'aasm'
+gem 'will_paginate'
+#gem 'epic-editor-rails'
+gem 'trix'
+gem 'sanitize'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

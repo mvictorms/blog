@@ -1,5 +1,5 @@
 html,body{
-	margin: 0px;
+	margin: 5px;
 	font-family: 'Open Sans', sans-serif; 
 }
 .btn{
@@ -21,14 +21,35 @@ a,a:visited{
 .no-margin{
 	margin: 0px;
 }
+.text-center{
+	text-align: center;
+}
+.be-big{
+	font-size: 2em;
+}
+.be-small{
+	font-size: 12px;
+}
+.text-underline{
+	text-decoration: underline;
+}
 .red{
 	color:#E74C3C !important;
+}
+.green{
+	color: green !important;
+}
+.blue{
+	color: blue !important;
 }
 .be-red{
 	background-color: #E74C3C;
 }
 .white{
 	color: #ECF0F1 ; 
+}
+.gray{
+	color: gray;
 }
 .large-padding{
 	padding: 8px 5px;
@@ -39,6 +60,12 @@ a,a:visited{
 
 .text-left{
 	text-align:left;
+}
+.text-right{
+	text-align:right;
+}
+.text-justify{
+	text-align: justify;
 }
 .no-list{
 	list-style:none;
@@ -54,4 +81,7 @@ a,a:visited{
 	display:block;
 	padding: 10px 0px;
 	font-size: 1.2em;
+}
+.bottom-space{
+	margin-bottom: 2em;
 }
